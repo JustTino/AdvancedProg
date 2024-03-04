@@ -1,7 +1,10 @@
 <html>
 <link rel="stylesheet" href="{{ url_for('static', filename='mainstyle.css') }}">
-<head><title>Polar Bear Tracking</title></head>
+<head><title>Home Data Page</title></head>
 <body>
-  <h1> Welcome to DataHub </h1>
+  <h1>Welcome to DataHub <h1>
+    <p>Your home of Data</p>
+        <a href="{{ url_for('csv1') }}"><button> Table 1</button></a>
+        <a href="{{ url_for('csv2') }}"><button> Table 2</button></a>
 </body>
 </html>

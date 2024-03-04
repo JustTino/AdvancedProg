@@ -19,7 +19,7 @@ h1{
   color: black;
 }
 .body1{
-  width: inherit;
+  width: 90%;
   height: inherit;
   display: flex;
   flex-direction: column;
