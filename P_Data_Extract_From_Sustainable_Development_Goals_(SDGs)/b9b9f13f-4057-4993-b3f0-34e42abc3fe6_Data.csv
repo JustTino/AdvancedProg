@@ -1,0 +1,42 @@
+Country Name,Country Code,Series Name,Series Code,2000 [YR2000],2005 [YR2005],2010 [YR2010],2015 [YR2015],2020 [YR2020]
+Nigeria,NGA,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,4.9,4.8,4.4,3.7,..
+Nigeria,NGA,Tax revenue (% of GDP),GC.TAX.TOTL.GD.ZS,..,..,..,..,..
+Nigeria,NGA,"Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)",SH.ALC.PCAP.LI,12.5,12.51,11.72,10.81,..
+Nigeria,NGA,Total reserves in months of imports,FI.RES.TOTL.MO,7.8784117256721,9.48645177595742,4.25096181038132,3.96558891308151,5.54449901255169
+Nigeria,NGA,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,..,..,..,4.30999994277954,..
+Nigeria,NGA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,34.84,39.074,43.48,47.838,51.958
+Nigeria,NGA,Urban population growth (annual %),SP.URB.GROW,4.0542745329837,4.81645788822792,4.74429722995351,4.45298071876681,4.09661059095784
+Nigeria,NGA,Urban poverty headcount ratio at national poverty lines (% of urban population),SI.POV.URHC,..,..,..,..,..
+Nigeria,NGA,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,11.3400001525879,13.9399995803833,17.3600006103516,17.7199993133545,..
+United Kingdom,GBR,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,8.6,7.9,7.8,8.8,..
+United Kingdom,GBR,Tax revenue (% of GDP),GC.TAX.TOTL.GD.ZS,26.0995903504779,25.4461810616323,25.1978203629214,24.7909272989213,24.2579803299973
+United Kingdom,GBR,"Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)",SH.ALC.PCAP.LI,13.73,13.89,12.06,11.21,..
+United Kingdom,GBR,Total reserves in months of imports,FI.RES.TOTL.MO,0.94137793589508,0.696541174580724,1.14783408979545,1.57701874645463,2.18046827528844
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,5.55999994277954,4.75,7.78999996185303,5.30000019073486,..
+United Kingdom,GBR,Urban population (% of total population),SP.URB.TOTL.IN.ZS,78.651,79.915,81.302,82.626,83.903
+United Kingdom,GBR,Urban population growth (annual %),SP.URB.GROW,0.433615661051976,1.04513367651541,1.11777108530512,1.10874798285391,0.665012476603781
+United Kingdom,GBR,Urban poverty headcount ratio at national poverty lines (% of urban population),SI.POV.URHC,..,..,..,..,..
+United Kingdom,GBR,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,87.7300033569336,87.0100021362305,86.0100021362305,85.0100021362305,..
+United States,USA,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,11,11.9,13.1,14.4,..
+United States,USA,Tax revenue (% of GDP),GC.TAX.TOTL.GD.ZS,12.9708003629433,10.6817311353578,8.56322576078511,11.2290084092682,9.94030613469903
+United States,USA,"Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)",SH.ALC.PCAP.LI,9.19,9.49,9.36,9.82,..
+United States,USA,Total reserves in months of imports,FI.RES.TOTL.MO,0.854272096906953,0.903588941772187,2.00331890203891,1.34989274152095,2.10596130843002
+United States,USA,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,3.99000000953674,5.07999992370605,9.63000011444092,5.28000020980835,8.05000019073486
+United States,USA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,79.057,79.928,80.772,81.671,82.664
+United States,USA,Urban population growth (annual %),SP.URB.GROW,1.51201139138713,1.13588459113456,1.03534480069191,0.966674782180289,1.20950099475043
+United States,USA,Urban poverty headcount ratio at national poverty lines (% of urban population),SI.POV.URHC,..,..,..,..,..
+United States,USA,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,92.4400024414063,92.5299987792969,92.9599990844727,93.5599975585938,..
+Ghana,GHA,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,5.4,6.9,7.8,7.3,..
+Ghana,GHA,Tax revenue (% of GDP),GC.TAX.TOTL.GD.ZS,..,21.321508315786,13.3883874032931,11.6905632672954,11.3404319629997
+Ghana,GHA,"Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)",SH.ALC.PCAP.LI,5.3,3.77,4.26,3.12,..
+Ghana,GHA,Total reserves in months of imports,FI.RES.TOTL.MO,1.06719389754897,3.32293145839649,4.25120343144955,3.0931028534103,3.29851075387678
+Ghana,GHA,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,10.460000038147,..,5.38000011444092,6.80999994277954,..
+Ghana,GHA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,43.929,47.308,50.713,54.086,57.349
+Ghana,GHA,Urban population growth (annual %),SP.URB.GROW,4.15987498901339,3.96098868566942,3.84096331547798,3.50966665878777,3.2565353358403
+Ghana,GHA,Urban poverty headcount ratio at national poverty lines (% of urban population),SI.POV.URHC,..,..,..,..,..
+Ghana,GHA,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,12.7700004577637,15.0799999237061,18.0400009155273,24.5499992370605,..
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Data from database: Sustainable Development Goals (SDGs),,,,,,,,
+Last Updated: 07/22/2022,,,,,,,,

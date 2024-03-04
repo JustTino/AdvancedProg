@@ -1,0 +1,39 @@
+<html>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+<head><title>Polar Bear Tracking</title></head>
+<body>
+    <h1>TABLE 2</h1>
+    <div class="body1">
+        <table border="1">
+            <thead>
+                <tr>
+                    <th>Country Name</th>
+                    <th>Country Code</th>
+                    <th>Series Name</th>
+                    <th>Series Code</th>
+                    <th>YR2000</th>
+                    <th>YR2005</th>
+                    <th>YR2010</th>
+                    <th>YR2015</th>
+                    <th>YR2020</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for row in rows %}
+                <tr>
+                    <td><b>{{ row["country_name"] }}</b></td>
+                    <td>{{ row["country_code"] }}</td>
+                    <td>{{ row["series_name"] }}</td>
+                    <td>{{ row['series_code'] }}</td>
+                    <td>{{ row["YR2000"] }}</td>
+                    <td>{{ row["YR2005"] }}</td>
+                    <td>{{ row['YR2010'] }}</td>
+                    <td>{{ row["YR2015"] }}</td>
+                    <td>{{ row["YR2020"] }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</body>
+    </body></html>
